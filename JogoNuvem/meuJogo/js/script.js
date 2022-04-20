@@ -479,4 +479,5 @@ function reiniciaJogo() {
 	$("#fim").remove();
 	start();
 
+
 } //Fim da função reiniciaJogo
