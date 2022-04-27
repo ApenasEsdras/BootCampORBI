@@ -1,3 +1,3 @@
-# Projeto feiro apartir de aula do BootCamp Dio Órbi
+# Projeto feito apartir de aula do BootCamp Dio Órbi
 
 ## 🚀 Let's code! 🚀
